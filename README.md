@@ -4,7 +4,7 @@
 -  I’m looking to collaborate on AI-driven applications, predictive analytics, and data-driven automation projects.
 -  How to reach me  Email: nathniharika11@gmail.com or LinkedIn.
 - Pronouns: She/Her
-- ⚡ Fun fact: I love uncovering patterns—whether in datasets or detective novels! 
+- Fun fact: I love uncovering patterns—whether in datasets or detective novels! 
 
 <!---
 NiharikaNath26/NiharikaNath26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
